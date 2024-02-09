@@ -6,19 +6,19 @@
     <br>
   </p>
 
-  <div style="text-align: justify;">
-    <p>
-      Hey, how's it going? :wink:
+<div align="center">
+  <p>
+    Hey, how's it going? :wink:
 
-      In this small project, I play around with the fantastic [API de Marvel Comics](https://developer.marvel.com/), obtaining a **DataFrame** with **the latest 100 comics** published by Marvel **in the year 2023** using Python.
+    In this small project, I play around with the fantastic <a href="https://developer.marvel.com/">API de Marvel Comics</a>, obtaining a <strong>DataFrame</strong> with <strong>the latest 100 comics</strong> published by Marvel <strong>in the year 2023</strong> using Python.
 
-      I **gather**, **clean**, **group**, and **analyze data** in two Jupyter Notebooks ([datamining](https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datamining.ipynb) and [datawrangling](https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datawrangling_and_interpretation.ipynb) ) where I describe the steps of what I do and why.
+    I <strong>gather</strong>, <strong>clean</strong>, <strong>group</strong>, and <strong>analyze data</strong> in two Jupyter Notebooks (<a href="https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datamining.ipynb">datamining</a> and <a href="https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datawrangling_and_interpretation.ipynb">datawrangling</a>) where I describe the steps of what I do and why.
 
-      Hope you enjoy it and it sparks some ideas for you!
+    Hope you enjoy it and it sparks some ideas for you!
 
-      *Cheers!* :vulcan_salute:.
-    </p>
-  </div>
+    <em>Cheers!</em> :vulcan_salute:.
+  </p>
+</div>
 </div>
 
 
