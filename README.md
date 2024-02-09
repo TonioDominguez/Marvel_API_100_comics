@@ -7,7 +7,7 @@
   </p>
 
   <div style="text-align: justify;">
-    
+    <p>
       Hey, how's it going? :wink:
 
       In this small project, I play around with the fantastic [API de Marvel Comics](https://developer.marvel.com/), obtaining a **DataFrame** with **the latest 100 comics** published by Marvel **in the year 2023** using Python.
@@ -17,8 +17,9 @@
       Hope you enjoy it and it sparks some ideas for you!
 
       *Cheers!* :vulcan_salute:.
-    
+    </p>
   </div>
 </div>
+
 
 
