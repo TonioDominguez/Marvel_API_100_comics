@@ -7,24 +7,6 @@
   </p>
 
 
-
-<div style="text-align: justify;">
-  <p>
-    <h2>Hey, how's it going? Hope you enjoy comics! :wink:</h2>
-
-    In this small project, I play around with the fantastic [API de Marvel Comics](https://developer.marvel.com/), obtaining a **DataFrame** with **the latest 100 comics** published by Marvel **in the year 2023** using Python.
-
-    I **gather**, **clean**, **group**, and **analyze data** in two Jupyter Notebooks ([datamining](https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datamining.ipynb) and [datawrangling](https://github.com/TonioDominguez/Marvel_API_100_comics/blob/main/data/marvel_datawrangling_and_interpretation.ipynb) ) where I describe the steps of what I do and why.
-
-    Hope you enjoy it and it sparks some ideas for you!
-
-    *Cheers!* :vulcan_salute:.
-  </p>
-</div>
-
-
-
-
 <div style="text-align: justify;">
   <h2>Hey, how's it going? Hope you enjoy comics! :wink:</h2>
 
@@ -41,7 +23,7 @@
   </p>
 
   <p>
-    <em>Cheers!</em> :vulcan_salute:.
+    <em>Cheers!</em> :vulcan_salute:
   </p>
 </div>
 
