@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    Hey, how's it going? :wink:
+    <h2>Hey, how's it going? Hope you enjoy comics! :wink:</h2>
 
     In this small project, I play around with the fantastic <a href="https://developer.marvel.com/">API de Marvel Comics</a>, obtaining a <strong>DataFrame</strong> with <strong>the latest 100 comics</strong> published by Marvel <strong>in the year 2023</strong> using Python.
 
